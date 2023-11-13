@@ -18,6 +18,10 @@
   ],
   "author": "Kai Schonberger",
   "license": "Public Domain",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaisnb/json-cycle-es.git"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.8",
     "jest": "^29.7.0",
